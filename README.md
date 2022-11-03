@@ -15,7 +15,6 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
 - :fire: Interested in DevOps and System Design;
 - :calendar: Looking for contributing to Java and Go based open source projects 
 
@@ -29,7 +28,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/java-original.png" alt="java"> <img height="48" src="img/spring-original.svg" alt="Spring"> <img height="48" src="img/go-original.svg" alt="Golang"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/kubernetes-original.png" alt="kubernetes"> <img height="48" src="img/gcp-original.png" alt="google cloud"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/java-original.png" alt="java"> <img height="48" src="img/spring-original.png" alt="Spring"> <img height="48" src="img/go-original.png" alt="Golang"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/kubernetes-original.png" alt="kubernetes"> <img height="48" src="img/gcp-original.png" alt="google cloud"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
