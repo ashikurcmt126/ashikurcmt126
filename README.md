@@ -30,6 +30,23 @@
 
 <img height="48" src="img/java-original.png" alt="java"> <img height="48" src="img/spring-original.png" alt="Spring"> <img height="48" src="img/go-original.png" alt="Golang"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/kubernetes-original.png" alt="kubernetes"> <img height="48" src="img/gcp-original.png" alt="google cloud"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
+#### Coding Platforms
+
+<p align="left">
+  <a href="https://www.hackerrank.com/Calculator_Baba">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/calculator_baba/">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/205880">
+    <img alt="Becrowd" src="img/becrowd.png">
+  </a>
+  <a href="https://www.hackerearth.com/@ashikur2">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+  </a>
+</p>
+
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
