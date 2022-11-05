@@ -40,7 +40,7 @@
     <img alt="Hackerrank" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
   </a>
   <a href="https://www.beecrowd.com.br/judge/en/profile/205880">
-    <img alt="Becrowd" src="img/becrowd.png">
+    <img height="28" alt="Becrowd" src="img/becrowd.png">
   </a>
   <a href="https://www.hackerearth.com/@ashikur2">
     <img alt="Hackerrank" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
