@@ -20,7 +20,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **SynergyForce**
+- 🏢 I'm currently working at **Rockstreamer**
 - ⚙️ I use daily: `.java`, `.go`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Java, Go and DevOps Community**
 - 🌱 Learning all about **DevOps and System Design**
